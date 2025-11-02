@@ -7,7 +7,7 @@
 ## 🔭 What I’m working on
 - A personal portfolio site to showcase my projects and skills.
 - A decentralized application (dApp) called *Counter-Dapp* built with JavaScript (forked) — [repo](https://github.com/Da0xguy/Counter-Dapp).
-- An e-commerce website for clothes (Timeline-dApp) — [repo](https://github.com/Da0xguy/Timeline-dApp).
+- An e-commerce website for clothes (Timeline-dApp) — Complete ✅ [https://timeline-d-app.vercel.app/].
 - Always exploring new front-end technologies and experimental web builds.
 
 ---
