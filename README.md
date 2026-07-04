@@ -45,7 +45,7 @@ Feel free to check out the code, files, and write-ups in each repository for mor
 - Twitter / X: [@Ay_bami01](https://twitter.com/Ay_bami01)  
 - Instagram: [@ay_obami01](https://www.instagram.com/ay_obami01)  
 - Facebook: [ayo.bami.802834](https://www.facebook.com/ayo.bami.802834)  
-- Email: *(add your email here)* — happy to chat about tech, collaboration, or new ideas!
+- Email: ayobamioketona@gmail.com
 
 ---
 
