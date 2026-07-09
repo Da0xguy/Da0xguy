@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Ay (aka @Da0xguy)
 
-**Frontend Web Developer** based in Lagos, Nigeria — passionate about building clean, modern web experiences and constantly expanding my skill set.
+**Frontend Web Developer** based in Abuja, Nigeria — passionate about building clean, modern web experiences and constantly expanding my skill set.
 
 ---
 
